@@ -1,31 +1,23 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Encontrar grupos para praticar esportes
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Veríssimo Dias
+    given-names: Cauã 
+  - family-names: Augustto Costa Barros
+    given-names: Guilherme 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Carneiro
+    given-names: Rommel
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Soares Vieira de Vasconcelos
+    given-names: Amalia 
 keywords:
-  - 
-  - 
-repository-code: 
+  - esporte
+  - grupo
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7946100-t2-g1-esportes
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
